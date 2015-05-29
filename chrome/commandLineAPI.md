@@ -1,3 +1,5 @@
+https://developer.chrome.com/devtools/docs/commandline-api
+
 Command Line API Reference
 
 The Command Line API is a collection of functions for performing common tasks with the Chrome Developer Tools. These include convenience functions for selecting and inspecting elements in the DOM, stopping and starting the profiler, and monitoring DOM events. This API complements the Console API, the Command Line API is only available from within the console itself.
